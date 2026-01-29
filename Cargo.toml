@@ -1,0 +1,14 @@
+[package]
+name = "td"
+version = "0.1.0"
+edition = "2021"
+description = "A minimal date/time CLI tool"
+license = "MIT"
+
+[dependencies]
+chrono = "0.4"
+clap = { version = "4", features = ["derive"] }
+
+[profile.release]
+strip = true
+lto = true
