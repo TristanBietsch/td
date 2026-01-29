@@ -1,8 +1,0 @@
-/Users/tristan/Documents/dev/td/target/release/deps/clap_lex-f9b155a6612bc1c0.d: /var/folders/xr/dpkcbwdj2y77v1zb8798bdym0000gp/T/cursor-sandbox-cache/8664bfbb9a3ed9d0d1ae35d8096b434b/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clap_lex-0.7.7/src/lib.rs /var/folders/xr/dpkcbwdj2y77v1zb8798bdym0000gp/T/cursor-sandbox-cache/8664bfbb9a3ed9d0d1ae35d8096b434b/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clap_lex-0.7.7/src/ext.rs
-
-/Users/tristan/Documents/dev/td/target/release/deps/libclap_lex-f9b155a6612bc1c0.rlib: /var/folders/xr/dpkcbwdj2y77v1zb8798bdym0000gp/T/cursor-sandbox-cache/8664bfbb9a3ed9d0d1ae35d8096b434b/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clap_lex-0.7.7/src/lib.rs /var/folders/xr/dpkcbwdj2y77v1zb8798bdym0000gp/T/cursor-sandbox-cache/8664bfbb9a3ed9d0d1ae35d8096b434b/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clap_lex-0.7.7/src/ext.rs
-
-/Users/tristan/Documents/dev/td/target/release/deps/libclap_lex-f9b155a6612bc1c0.rmeta: /var/folders/xr/dpkcbwdj2y77v1zb8798bdym0000gp/T/cursor-sandbox-cache/8664bfbb9a3ed9d0d1ae35d8096b434b/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clap_lex-0.7.7/src/lib.rs /var/folders/xr/dpkcbwdj2y77v1zb8798bdym0000gp/T/cursor-sandbox-cache/8664bfbb9a3ed9d0d1ae35d8096b434b/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clap_lex-0.7.7/src/ext.rs
-
-/var/folders/xr/dpkcbwdj2y77v1zb8798bdym0000gp/T/cursor-sandbox-cache/8664bfbb9a3ed9d0d1ae35d8096b434b/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clap_lex-0.7.7/src/lib.rs:
-/var/folders/xr/dpkcbwdj2y77v1zb8798bdym0000gp/T/cursor-sandbox-cache/8664bfbb9a3ed9d0d1ae35d8096b434b/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clap_lex-0.7.7/src/ext.rs:

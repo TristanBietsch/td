@@ -1,8 +1,0 @@
-/Users/tristan/Documents/dev/td/target/release/deps/utf8parse-2728797ce8063aed.d: /var/folders/xr/dpkcbwdj2y77v1zb8798bdym0000gp/T/cursor-sandbox-cache/8664bfbb9a3ed9d0d1ae35d8096b434b/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utf8parse-0.2.2/src/lib.rs /var/folders/xr/dpkcbwdj2y77v1zb8798bdym0000gp/T/cursor-sandbox-cache/8664bfbb9a3ed9d0d1ae35d8096b434b/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utf8parse-0.2.2/src/types.rs
-
-/Users/tristan/Documents/dev/td/target/release/deps/libutf8parse-2728797ce8063aed.rlib: /var/folders/xr/dpkcbwdj2y77v1zb8798bdym0000gp/T/cursor-sandbox-cache/8664bfbb9a3ed9d0d1ae35d8096b434b/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utf8parse-0.2.2/src/lib.rs /var/folders/xr/dpkcbwdj2y77v1zb8798bdym0000gp/T/cursor-sandbox-cache/8664bfbb9a3ed9d0d1ae35d8096b434b/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utf8parse-0.2.2/src/types.rs
-
-/Users/tristan/Documents/dev/td/target/release/deps/libutf8parse-2728797ce8063aed.rmeta: /var/folders/xr/dpkcbwdj2y77v1zb8798bdym0000gp/T/cursor-sandbox-cache/8664bfbb9a3ed9d0d1ae35d8096b434b/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utf8parse-0.2.2/src/lib.rs /var/folders/xr/dpkcbwdj2y77v1zb8798bdym0000gp/T/cursor-sandbox-cache/8664bfbb9a3ed9d0d1ae35d8096b434b/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utf8parse-0.2.2/src/types.rs
-
-/var/folders/xr/dpkcbwdj2y77v1zb8798bdym0000gp/T/cursor-sandbox-cache/8664bfbb9a3ed9d0d1ae35d8096b434b/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utf8parse-0.2.2/src/lib.rs:
-/var/folders/xr/dpkcbwdj2y77v1zb8798bdym0000gp/T/cursor-sandbox-cache/8664bfbb9a3ed9d0d1ae35d8096b434b/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utf8parse-0.2.2/src/types.rs:
